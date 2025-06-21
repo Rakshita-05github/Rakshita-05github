@@ -7,7 +7,8 @@
 <div align="center">
 <h4>I'm a Computer Science Engineering Student who loves technology and I'm passionate about building web applications and quite an efficient programmer.</h4>
 </div>
-<img src=![image](https://github.com/user-attachments/assets/394532ed-8f76-4feb-bb09-8a4cfda33061)>
+<img src="![image](https://github.com/user-attachments/assets/bde0aa52-f917-40c6-b7a6-612a8cd43214)
+">
 
 🔭 Here's my [Portfolio](https://rvportfolio2025.netlify.app/)
 
@@ -17,7 +18,7 @@
 - 🤔 I’m looking for help with placements in FAANG Companies
 - 💬 Ask me about Tech
 - 📫 How to reach me:
-- <br /><a href="https://www.linkedin.com/in/rakshita-vinodh-92a781257/">
+  <br /><a href="https://www.linkedin.com/in/rakshita-vinodh-92a781257/">
   <img src="https://github.com/user-attachments/assets/13d421d4-8ad9-4775-8820-14e852ffdd98" width="120px" alt="Rakshita Vinodh LinkedIn">
 </a>
 - 😄 Pronouns: Techie
