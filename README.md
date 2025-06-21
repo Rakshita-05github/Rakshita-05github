@@ -10,8 +10,8 @@ Computer Science Engineering Student
 - 👯 I’m looking to collaborate on developing products
 - 🤔 I’m looking for help with placements in FAANG Companies
 - 💬 Ask me about Tech
-- 📫 How to reach me: [![image](https://github.com/user-attachments/assets/13d421d4-8ad9-4775-8820-14e852ffdd98)
-](https://www.linkedin.com/in/rakshita-vinodh-92a781257/)
+- 📫 How to reach me:<img src="[![image](https://github.com/user-attachments/assets/13d421d4-8ad9-4775-8820-14e852ffdd98)
+](https://www.linkedin.com/in/rakshita-vinodh-92a781257/)" width=300px>
 - 😄 Pronouns: Techie
 
 ### 💻 I code in
