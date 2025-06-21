@@ -70,7 +70,7 @@
 
 
   <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakshita-05github&bg_color=211c1f&color=1c827c&line=04ec80&point=403d3d&area=true&hide_border=true" width="48%" height="40%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakshita-05github&bg_color=211c1f&color=1c827c&line=04ec80&point=403d3d&area=true&hide_border=true" width="48%" height="60%" alt="Contribution Graph" />
   <img src="https://github-readme-stats.vercel.app/api?username=Rakshita-05github&show_icons=true&theme=radical" width="48%" alt="GitHub Stats" />
 </p>
 
