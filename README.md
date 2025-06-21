@@ -40,8 +40,6 @@
 
 
 
----
-
 ### 🛠 IDE and Tools I Use
 
 <p align="center">
