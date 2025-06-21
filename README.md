@@ -1,4 +1,4 @@
-## Hi there 👋 It's me Rakshita Vinodh
+## Hi there 👋 <h1>I'm Rakshita Vinodh</h1>
 
 Computer Science Engineering Student
 <img src=![image](https://github.com/user-attachments/assets/394532ed-8f76-4feb-bb09-8a4cfda33061)>
