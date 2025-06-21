@@ -25,17 +25,18 @@
 ### 💻 I code in
 
 <p align="center">
-<img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>  <img src="https://github.com/user-attachments/assets/5694af6d-d5c2-4c8f-aed2-049dbf92fa68" width="80" height="50"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" width="80" height="50"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" width="80" height="50"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" width="80" height="50"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" width="80" height="50"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" width="80" height="50"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" width="80" height="50"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" width="80" height="50"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" width="80" height="50"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" width="80" height="50"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" width="80" height="50"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>  
+  <img src="https://github.com/user-attachments/assets/5694af6d-d5c2-4c8f-aed2-049dbf92fa68" width="80" height="50"/>
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/>  
+<img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/bootstrap.png" alt="bootstrap"/>
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/tensorflow.png" alt="tensorflow"/>
+<img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo"/>
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="mysql-logo"/>
+<img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" alt="external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo"/>
 </p>
 
 
