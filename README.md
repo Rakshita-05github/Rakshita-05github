@@ -60,7 +60,7 @@
 ### 🎯 Coding Platform (LeetCode/CP Stats)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Rakshita_vinodh?theme=forest&font=Sen&ext=activity)
-![Most Used Language]("https://github-readme-stats.vercel.app/api/top-langs/?username=Rakshita-05github&layout=compact&theme=default>
+![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakshita-05github&layout=compact&theme=default)
 
 
 ---
