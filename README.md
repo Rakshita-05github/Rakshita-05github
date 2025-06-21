@@ -61,23 +61,10 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Rakshita_vinodh?theme=forest&font=Sen&ext=activity)
 <h2>💻 Coding Platform (Skillrack Stats)</h2>
 
-<div align="center" style="border:1px solid #ccc; border-radius:10px; padding:20px; background:#fff8dc; width:90%;">
-  <h3><strong>Rakshita_vinodh</strong> (Skillrack)</h3>
-  <p><strong>Total Problems Solved:</strong> 350+</p>
 
-  <ul align="left">
-    <li>🟢 Easy: 150 / 200</li>
-    <li>🟡 Medium: 140 / 200</li>
-    <li>🔴 Hard: 60 / 100</li>
-  </ul>
 
-  <h4>Recent Activities</h4>
-  <ul align="left">
-    <li>✅ Java – Sorting Students by Marks</li>
-    <li>✅ Java – Divisible by K</li>
-    <li>✅ Java – Bitwise Toggle</li>
-  </ul>
-</div>
+### 💻 Skillrack Profile  
+🔗 [Rakshita_vinodh on Skillrack](http://www.skillrack.com/profile/407240/bda05ede3b59b8d664981b346270769c05b3d9c5 )
 
 
 ---
