@@ -7,7 +7,7 @@
 <div align="center">
 <h4>I'm a Computer Science Engineering Student who loves technology and I'm passionate about building web applications and quite an efficient programmer.</h4>
 </div>
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=73113193931802703" height="359" width="345" frameborder="0" scrolling="no" ></iframe>
+<img src="https://assets.pinterest.com/ext/embed.html?id=73113193931802703" height="359" width="345" frameborder="0" scrolling="no" >
 
 
 
