@@ -78,4 +78,4 @@
 </p>
 
 ---
-"The great growling engine of change - technology"
+> “The great growling engine of change - technology”  
