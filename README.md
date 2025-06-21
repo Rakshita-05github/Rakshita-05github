@@ -59,11 +59,6 @@
 ### 🎯 Coding Platform (LeetCode/CP Stats)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Rakshita_vinodh?theme=forest&font=Sen&ext=activity)
-<h2>💻 Coding Platform (Skillrack Stats)</h2>
-
-
-
-### 💻 Skillrack Profile  
 🔗 [Rakshita_vinodh on Skillrack](http://www.skillrack.com/profile/407240/bda05ede3b59b8d664981b346270769c05b3d9c5 )
 
 
