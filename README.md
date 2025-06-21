@@ -52,6 +52,7 @@
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/figma.png" alt="figma"/>
 <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-color-tal-revivo.png" alt="external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-color-tal-revivo"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/apache-netbeans.png" alt="apache-netbeans"/>
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/code-blocks.png" alt="code-blocks"/>
 </p>
 
 ---
