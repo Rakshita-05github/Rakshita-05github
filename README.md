@@ -63,12 +63,19 @@
 
 ---
 
-## Github Stats
+<h2>📊 GitHub Stats</h2>
 
-[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rakshita-05github&bg_color=211c1f&color=1c827c&line=04ec80&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## 📊 Most Used Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakshita-05github&layout=compact&theme=default)](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakshita-05github&layout=compact&theme=default)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakshita-05github&bg_color=211c1f&color=1c827c&line=04ec80&point=403d3d&area=true&hide_border=true" width="100%"/>
+      </a>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakshita-05github&layout=compact&theme=default" width="300px"/>
+    </td>
+  </tr>
+</table>
 
 
