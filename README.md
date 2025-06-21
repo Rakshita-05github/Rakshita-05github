@@ -5,7 +5,7 @@
 </div>
 
 
-<center>I'm a Computer Science Engineering Student who loves technology and I'm passionate about building web applications and quite an efficient programmer.</center>
+<h4>I'm a Computer Science Engineering Student who loves technology and I'm passionate about building web applications and quite an efficient programmer.</h4>
 
 <img src=![image](https://github.com/user-attachments/assets/394532ed-8f76-4feb-bb09-8a4cfda33061)>
 
