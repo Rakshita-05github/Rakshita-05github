@@ -7,7 +7,7 @@
 <div align="center">
 <h4>I'm a Computer Science Engineering Student who loves technology and I'm passionate about building web applications and quite an efficient programmer.</h4>
 </div>
-<img src="https://i.pinimg.com/originals/12/b7/87/12b7877ea50bc630d3c2367553a4e1a3.gif">
+<img src="https://i.pinimg.com/originals/12/b7/87/12b7877ea50bc630d3c2367553a4e1a3.gif" height="370px" width="270px" align="right">
 
 
 🔭 Here's my [Portfolio](https://rvportfolio2025.netlify.app/)
