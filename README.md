@@ -67,7 +67,7 @@
 
 ---
 
-<h2>📊 GitHub Stats</h2>
+### 📊Contribution Graph
 
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
