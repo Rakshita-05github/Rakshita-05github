@@ -56,15 +56,14 @@
 
 
 
----
+
 ### 🎯 Coding Platform (LeetCode/CP Stats)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Rakshita_vinodh?theme=forest&font=Sen&ext=activity)
-<img align ="right" width="500" height="370" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakshita-05github&layout=compact&theme=default">
+<img align ="right" width="370" height="270" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakshita-05github&layout=compact&theme=default">
 
 
 
----
 
 ### 📊Contribution Graph
 
