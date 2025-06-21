@@ -69,7 +69,7 @@
 
 
 
-  [![https://github-readme-stats.vercel.app/api?username=Rakshita-05github](https://github-readme-activity-graph.vercel.app/graph?username=Rakshita-05github&bg_color=211c1f&color=1c827c&line=04ec80&point=403d3d&area=true&hide_border=true)](https://github.com/Rakshita-05github/github-readme-stats)
+  [![Rakshita's Contibution](https://github-readme-activity-graph.vercel.app/graph?username=Rakshita-05github&bg_color=211c1f&color=1c827c&line=04ec80&point=403d3d&area=true&hide_border=true)](https://github.com/Rakshita-05github/github-readme-stats)
 
 
     
