@@ -7,8 +7,7 @@
 <div align="center">
 <h4>I'm a Computer Science Engineering Student who loves technology and I'm passionate about building web applications and quite an efficient programmer.</h4>
 </div>
-<img src="![image](https://github.com/user-attachments/assets/bde0aa52-f917-40c6-b7a6-612a8cd43214)
-">
+<img src="(https://github.com/user-attachments/assets/bde0aa52-f917-40c6-b7a6-612a8cd43214)">
 
 🔭 Here's my [Portfolio](https://rvportfolio2025.netlify.app/)
 
