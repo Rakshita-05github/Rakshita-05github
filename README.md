@@ -54,7 +54,7 @@
   <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat&logo=adobe-xd&logoColor=white" width="80" height="50"/>
 </p>
 
-
+---
 
 
 ### 🎯 Coding Platform (LeetCode/CP Stats)
@@ -62,14 +62,14 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Rakshita_vinodh?theme=forest&font=Sen&ext=activity)
 <img align ="right" width="370" height="270" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakshita-05github&layout=compact&theme=default">
 
-
+---
 
 
 ### 📊Contribution Graph
 
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakshita-05github&bg_color=211c1f&color=1c827c&line=04ec80&point=403d3d&area=true&hide_border=true" width="85%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakshita-05github&bg_color=211c1f&color=1c827c&line=04ec80&point=403d3d&area=true&hide_border=true" width="100%"/>
     
   
 </a>
