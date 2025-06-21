@@ -24,7 +24,7 @@
 
 ### 💻 Tech Stacks
 
-<p align="center">
+<p align="left">
 <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>  
   <img src="https://github.com/user-attachments/assets/5694af6d-d5c2-4c8f-aed2-049dbf92fa68" width="80" height="50"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
@@ -42,7 +42,7 @@
 
 ### 🛠 IDE and Tools I Use
 
-<p align="center">
+<p align="left">
 <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio--v2.png" alt="visual-studio--v2"/>
 <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" alt="adobe-photoshop--v1"/>
