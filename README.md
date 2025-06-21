@@ -57,4 +57,13 @@
 
 
 ---
-(![LeetCode Stats](https://leetcard.jacoblin.cool/Rakshita_vinodh?theme=forest&font=Sen&ext=activity)
+### 🎯 Coding Platform (LeetCode/CP Stats)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Rakshita_vinodh?theme=forest&font=Sen&ext=activity)
+
+## Github Stats
+
+## 📊 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Rakshita-05github&layout=compact&theme=default)
+
