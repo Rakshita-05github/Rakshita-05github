@@ -1,4 +1,9 @@
-## <H1> Hi there 👋 I'm Rakshita Vinodh</h1>
+<div align="center">
+
+  <h1>Hi there 👋 It's me Rakshita Vinodh</h1>
+
+</div>
+
 
 <center>I'm a Computer Science Engineering Student who loves technology and I'm passionate about building web applications and quite an efficient programmer.</center>
 
