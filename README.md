@@ -65,5 +65,5 @@
 
 ## 📊 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Rakshita-05github&layout=compact&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/[?Rakshita-05github](https://github.com/Rakshita-05github)&layout=compact&theme=default)
 
