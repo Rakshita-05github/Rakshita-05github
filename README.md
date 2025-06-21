@@ -65,16 +65,15 @@
 
 <h2>📊 GitHub Stats</h2>
 
-<div align="center">
-  <div style="display: inline-block; width: 15%;">
-    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakshita-05github&bg_color=211c1f&color=1c827c&line=04ec80&point=403d3d&area=true&hide_border=true" width="100%"/>
-    </a>
-  </div>
-  <div style="display: inline-block; width: 15%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakshita-05github&layout=compact&theme=default" width="100%"/>
-  </div>
-</div>
-
-
-
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakshita-05github&bg_color=211c1f&color=1c827c&line=04ec80&point=403d3d&area=true&hide_border=true" width="70%"/>
+      </a>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakshita-05github&layout=compact&theme=default" width="700px"/>
+    </td>
+  </tr>
+</table>
