@@ -16,13 +16,12 @@
 - 👯 I’m looking to collaborate on developing products
 - 🤔 I’m looking for help with placements in FAANG Companies
 - 💬 Ask me about Tech
-- 📫 How to reach me:
+- 📫 Reach me here:
   <br /><a href="https://www.linkedin.com/in/rakshita-vinodh-92a781257/">
   <img src="https://github.com/user-attachments/assets/13d421d4-8ad9-4775-8820-14e852ffdd98" width="120px" alt="Rakshita Vinodh LinkedIn">
 </a>
-- 😄 Pronouns: Techie
 
-### 💻 I code in
+### 💻 Tech Stacks
 
 <p align="center">
 <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>  
