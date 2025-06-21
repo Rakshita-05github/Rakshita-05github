@@ -4,9 +4,9 @@
 
 </div>
 
-
+<div align="center">
 <h4>I'm a Computer Science Engineering Student who loves technology and I'm passionate about building web applications and quite an efficient programmer.</h4>
-
+</div>
 <img src=![image](https://github.com/user-attachments/assets/394532ed-8f76-4feb-bb09-8a4cfda33061)>
 
 🔭 Here's my [Portfolio](https://rvportfolio2025.netlify.app/)
