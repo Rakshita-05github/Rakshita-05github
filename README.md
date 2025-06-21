@@ -71,7 +71,7 @@
   <p align="center">
   
   <img src="https://github-readme-stats.vercel.app/api?username=Rakshita-05github&show_icons=true&theme=radical" width="48%" alt="GitHub Stats" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakshita-05github&layout=compact&theme=default">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakshita-05github&layout=compact&theme=default">
 
 </p>
 
