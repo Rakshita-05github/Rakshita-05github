@@ -1,6 +1,7 @@
-## Hi there 👋 <h1>I'm Rakshita Vinodh</h1>
+## <H1> Hi there 👋 I'm Rakshita Vinodh</h1>
 
-Computer Science Engineering Student
+I'm a Computer Science Engineering Student who loves technology and I'm passionate about building web applications and quite an efficient programmer.
+
 <img src=![image](https://github.com/user-attachments/assets/394532ed-8f76-4feb-bb09-8a4cfda33061)>
 
 🔭 Here's my [Portfolio](https://rvportfolio2025.netlify.app/)
